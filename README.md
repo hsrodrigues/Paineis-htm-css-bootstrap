@@ -5,6 +5,15 @@ Este repositório contém dois painéis interativos construídos com **HTML**, *
 1. **Painel de Clima** 🌦️: Um painel que utiliza a **API da OpenWeather** para exibir informações climáticas em tempo real.
 2. **Painel de Links do Power BI** 🔗: Um painel que contém links para relatórios do **Power BI**, facilitando o acesso direto a relatórios hospedados no **GitHub**.
 
+### 🚧 Projetos em Destaque
+
+- [**Painel de Clima** 🌦️](https://github.com/hsrodrigues/SISCAD-Sistema-de-Cadastros)  
+  🛠️ *Painel climático utilizando html, css e bootstrap + API OpenWeather.*
+
+- [**Painel de Links do Power BI** 🔗](LINK_DO_PROJETO)  
+  📊 *Painel de links fáceis para os BI's de determinada empresa.*
+
+
 ## Funcionalidades ✨
 
 ### 1. Painel de Clima 🌦️
