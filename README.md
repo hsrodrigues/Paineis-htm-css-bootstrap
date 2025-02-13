@@ -10,7 +10,7 @@ Este repositório contém dois painéis interativos construídos com **HTML**, *
 - [**Painel de Clima** 🌦️](https://hsrodrigues.github.io/Painel-clima/index.html)  
   🛠️ *Painel climático utilizando html, css e bootstrap + API OpenWeather.*
 
-- [**Painel de Links do Power BI** 🔗](LINK_DO_PROJETO)  
+- [**Painel de Links do Power BI** 🔗](https://hsrodrigues.github.io/painel-links-BI)  
   📊 *Painel de links fáceis para os BI's de determinada empresa.*
 
 
