@@ -7,7 +7,7 @@ Este repositório contém dois painéis interativos construídos com **HTML**, *
 
 ### 🚧 Projetos em Destaque
 
-- [**Painel de Clima** 🌦️](https://github.com/hsrodrigues/SISCAD-Sistema-de-Cadastros)  
+- [**Painel de Clima** 🌦️](https://hsrodrigues.github.io/Painel-clima/index.html)  
   🛠️ *Painel climático utilizando html, css e bootstrap + API OpenWeather.*
 
 - [**Painel de Links do Power BI** 🔗](LINK_DO_PROJETO)  
