@@ -33,9 +33,3 @@ Este repositório contém dois painéis interativos construídos com **HTML**, *
 - **JavaScript**: Para manipulação de dados da API do clima e links dinâmicos.
 - **API OpenWeather**: Para dados climáticos.
 - **GitHub Pages**: Para hospedagem do painel de links do Power BI.
-
-## Como Usar 🚀
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/hsrodrigues01/Paineis-htm-css-bootstrap.git
