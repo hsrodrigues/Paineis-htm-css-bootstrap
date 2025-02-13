@@ -29,4 +29,4 @@ Este repositório contém dois painéis interativos construídos com **HTML**, *
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/SEU-USUARIO/REPOSITORIO.git
+   git clone https://github.com/hsrodrigues01/Paineis-htm-css-bootstrap.git
